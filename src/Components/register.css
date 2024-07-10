@@ -1,0 +1,50 @@
+.container{
+    /* width: 500px;
+    height: 470px;
+    margin-left: 33.5%;
+    background-color: rgb(225, 224, 224); */
+    text-align: center;
+}
+.container1{
+    /* width: 500px;
+    height: 370px;
+    margin-top: 15px;
+    margin-left: 33.5%;
+    background-color: rgb(225, 224, 224); */
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    width: 400px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+}
+.btn1{
+    background-color: rgb(17, 176, 174);
+}
+.btn2{
+    background-color: rgb(34, 34, 183);
+}
+.btn3{
+    background-color: rgb(8, 158, 158);
+}
+hr{
+    width: 400px;
+}
+input{
+    width: 395px;
+    height: 30px;
+    margin: 5px;
+}
+a{
+    text-decoration: none;
+}
